@@ -91,7 +91,7 @@
     <item msgid="1634960474403853625">"Desconectado"</item>
     <item msgid="746097431216080650">"Falha"</item>
     <item msgid="6367044185730295334">"Bloqueado"</item>
-    <item msgid="503942654197908005">"Temporariamente evitando uma conexão ruim"</item>
+    <item msgid="503942654197908005">"A evitar temporariamente uma ligação fraca"</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
     <item msgid="7714855332363650812"></item>
@@ -105,7 +105,7 @@
     <item msgid="197508606402264311">"Desconectado"</item>
     <item msgid="8578370891960825148">"Falha"</item>
     <item msgid="5660739516542454527">"Bloqueado"</item>
-    <item msgid="1805837518286731242">"Temporariamente evitando uma conexão ruim"</item>
+    <item msgid="1805837518286731242">"A evitar temporariamente uma ligação fraca"</item>
   </string-array>
     <!-- no translation found for wifi_security:0 (8491993170197127709) -->
     <!-- no translation found for wifi_security:1 (6524315248437318854) -->
@@ -128,7 +128,7 @@
   <string-array name="wifi_p2p_status">
     <item msgid="1701505390737218306">"Conectado"</item>
     <item msgid="3189211552661432651">"Convidado"</item>
-    <item msgid="3206450250360237549">"Malsucedida"</item>
+    <item msgid="3206450250360237549">"Mal sucedida"</item>
     <item msgid="7785896708926971207">"Disponível"</item>
     <item msgid="2330782789550628803">"Fora de alcance"</item>
   </string-array>
@@ -139,7 +139,7 @@
     <item msgid="5198271470953124739">"Nunca definir tempo limite"</item>
   </string-array>
   <string-array name="wifi_signal">
-    <item msgid="2245412278046491293">"Ruim"</item>
+    <item msgid="2245412278046491293">"Mau"</item>
     <item msgid="5615082285463430971">"Bom"</item>
     <item msgid="3565079809875324621">"Bom"</item>
     <item msgid="5702329417707689835">"Excelente"</item>
@@ -288,7 +288,7 @@
     <item msgid="8001704909356800092">"Conectando..."</item>
     <item msgid="4039737283841672166">"Conectado"</item>
     <item msgid="4042143101664725090">"Tempo limite"</item>
-    <item msgid="7664124146786465092">"Malsucedida"</item>
+    <item msgid="7664124146786465092">"Mal sucedida"</item>
   </string-array>
   <string-array name="security_settings_premium_sms_values">
     <item msgid="7389829271787670252">"Perguntar"</item>
