@@ -21,7 +21,7 @@
     <item>Nenhum</item>
   </string-array>
   <string-array name="pref_zram_size_entries">
-    <item>Desabilitado</item>
+    <item>Desativado</item>
     <item>10%</item>
     <item>18% (padrão)</item>
     <item>26%</item>
@@ -32,13 +32,13 @@
     <item>Não substituir</item>
   </string-array>
   <string-array name="profile_connection_entries">
-    <item>Desabilitar</item>
-    <item>Habilitar</item>
+    <item>Desativar</item>
+    <item>Ativar</item>
   </string-array>
   <string-array name="entries_network_widget">
     <item>2G/3G+2G</item>
-    <item>2G/3G Somente</item>
-    <item>2G/3G Somente/3G+2G</item>
+    <item>2G/3G Só</item>
+    <item>2G/3G Só/3G+2G</item>
   </string-array>
   <string-array name="entries_flash_widget">
     <item>Normal</item>
